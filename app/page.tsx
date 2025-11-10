@@ -4,7 +4,7 @@ import { useEffect, useRef, useState } from "react";
 import { motion, useScroll, useTransform } from "framer-motion";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
-import Checkout from "../../components/Checkout";
+import Checkout from "../components/Checkout";
 
 import Image from "next/image";
 
